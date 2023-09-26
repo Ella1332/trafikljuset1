@@ -1,0 +1,50 @@
+body{
+    margin: 200px;
+    background-color: rgb(201, 198, 198);
+}
+
+#main_box
+{
+    margin: auto;
+    background-color: white;
+    width: 250px;
+    height: 700px;
+    padding-top: 10px;
+
+}
+
+.box{
+    width: 190px;
+    height: 170px;
+    background-color: red;
+    color: rgb(157, 157, 148);
+   
+   
+    border: 19px solid rgb(140, 38, 38);
+    margin: auto;
+}
+.container{
+    width: 190px;
+    height: 170px;
+    background-color: yellow;
+    color: beige;
+   
+    
+    border: 19px solid rgb(144, 112, 31);
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+    padding-top: 20px;
+}
+.inner{
+    width: 190px;
+    height: 170px;
+    background-color: rgb(10, 185, 10);
+    color: beige;
+   
+    border: 19px solid rgb(6, 93, 41);
+    margin: auto;
+
+    padding-top: 20px;
+}
